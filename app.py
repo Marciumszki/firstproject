@@ -1,0 +1,3 @@
+input("stuff")
+
+print("cucc")
